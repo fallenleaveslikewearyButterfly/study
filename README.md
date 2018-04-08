@@ -2,4 +2,5 @@
 
 
 - Sorted Algorithm  
-&nbsp;1.quick sort.
+&nbsp;1.quick sort.  
+&nbso;2.maopao sort.
